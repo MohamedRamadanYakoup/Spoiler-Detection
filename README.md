@@ -1,4 +1,4 @@
-# spoiler-detection
+# Spoiler-Detection
 
 ## 딥러닝으로 영화 리뷰 속 스포일러 찾기
 
