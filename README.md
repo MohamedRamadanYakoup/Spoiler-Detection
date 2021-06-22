@@ -52,12 +52,12 @@ IMDB Spoiler Dataset: Can you identify which reviews have spoilers to improve us
 | GRU                                     | 0.7889   | 0.3153   |
 | BiLSTM                                  | 0.7867   | 0.2972   |
 | BiGRU                                   | 0.7910   | 0.3438 |
-| CNN + LSTM | 0.7932 | 0.4079 |
-| CNN + GRU | 0.7918 | 0.3719 |
-| CNN + BiLSTM | 0.7923 | 0.4123 |
-| CNN + LSTM + LSTM | 0.7969 | 0.3530 |
-| CNN + BiLSTM + LSTM | 0.7955 | 0.3689 |
-| CNN + LSTM + BiLSTM | 0.7967 | 0.3926 |
+| Conv1D + LSTM | 0.7932 | 0.4079 |
+| Conv1D + GRU | 0.7918 | 0.3719 |
+| Conv1D + BiLSTM | 0.7923 | 0.4123 |
+| Conv1D + LSTM + LSTM | 0.7969 | 0.3530 |
+| Conv1D + BiLSTM + LSTM | 0.7955 | 0.3689 |
+| Conv1D + LSTM + BiLSTM | 0.7967 | 0.3926 |
 
 
 <br/>
