@@ -22,7 +22,7 @@ IMDB Spoiler Dataset: Can you identify which reviews have spoilers to improve us
 - Rishabh Misra, 2019. 05. <br/>
 - doi: 10.13140/RG.2.2.11584.15362 <br/>
 - https://rishabhmisra.github.io/publications
-- https://www.kaggle.com/rmisra/imdb-spoiler-dataset?select=IMDB_reviews.json
+- https://www.kaggle.com/rmisra/imdb-spoiler-dataset?select=IMDB_reviews.json (License - CC0: Public Domain)
 
 위 데이터셋은 영화 제목, 상영 시간, 장르, 줄거리 등 영화 정보에 대한 데이터와 리뷰별 작성자, 해당하는 영화의 코드, 리뷰 내용 등 리뷰 정보에 대한 데이터를 가지고 있습니다. 이 중에서 영화의 플롯 요약본과 리뷰를 사용해서 프로젝트를 진행하였습니다.
 
