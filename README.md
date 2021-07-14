@@ -66,7 +66,7 @@ IMDB Spoiler Dataset: Can you identify which reviews have spoilers to improve us
 
 - 모델 구조
 
-![image](https://user-images.githubusercontent.com/70365836/122969584-c57a2080-d3c7-11eb-900c-5c30e0810290.png)
+![image](https://user-images.githubusercontent.com/70365836/125570194-b68bd453-03bd-4ff6-bc41-66bf35e5cf84.png)
 
 - Test dataset에 대한 결과
   - Accuracy: 약 0.8025
